@@ -51,4 +51,5 @@ function secToTime(seconds){
     return time
 }
 const button=document.getElementById("button")
+
 button.addEventListener("click",click)
